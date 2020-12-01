@@ -74,7 +74,7 @@ quiz(
 ```
 
 
-## Overview
+### Overview
 
 You can include one or more multiple-choice quiz questions within a tutorial to help verify that readers understand the concepts presented. Basic questions can either have one or more correct answers.
 
