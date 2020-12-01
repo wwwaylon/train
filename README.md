@@ -2,6 +2,13 @@
 
 ## Interactive Tutorials for R with `learnr`
 
+master?urlpath=shiny/test1/
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wwwaylon/train/master?urlpath=shiny/test2/)
+
+
+
+Testing
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/wwwaylon-train-d6sdg8hj/shiny/test2/)
 
