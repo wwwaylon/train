@@ -2,6 +2,11 @@
 
 ## Interactive Tutorials for R with `learnr`
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wwwaylon/train/master?filepath=test2.Rmd)
+
+
+
 [**learnr**](https://rstudio.github.io/learnr/) packages are for creating R tutorials with shiny apps running under the hood. Normally, running them require you to run a server or purchase [shiny apps](https://www.shinyapps.io) hosting service.
 
 However, Binder service can provide an alternative. Following are two examples of `learnr` tutorials running on Binder.
