@@ -4,8 +4,7 @@
 
 master?urlpath=shiny/test1/
 
-This is the one
+Test 1: [![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/wwwaylon/train/master?urlpath=shiny/test1/)
+Test 2: [![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/wwwaylon/train/master?urlpath=shiny/test2/)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/wwwaylon/train/master?urlpath=shiny/test2/)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/wwwaylon/train/master?urlpath=shiny/test1/)
