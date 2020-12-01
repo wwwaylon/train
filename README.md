@@ -8,13 +8,9 @@ This is the one
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wwwaylon/train/master?urlpath=shiny/test2/)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wwwaylon/train/master?urlpath=shiny/test1/)
 
 
-Testing
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/wwwaylon-train-d6sdg8hj/shiny/test2/)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/wwwaylon-train-7racavo3/shiny/test2/)
 
 
 
