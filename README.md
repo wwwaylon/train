@@ -3,7 +3,7 @@
 ## Interactive Tutorials for R with `learnr`
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/wwwaylon-train-7racavo3/shiny/test1/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/user/wwwaylon-train-7racavo3/shiny/test1/)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/wwwaylon-train-7racavo3/shiny/test2/)
 
